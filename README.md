@@ -13,7 +13,7 @@ A modern, responsive e-commerce web interface using HTML, CSS, and JavaScript.
 - Add-to-cart interface (UI only)
 
 ## Live Demo
-[View on GitHub Pages](https://Deenprasath.github.io/luxe-store-ecommerce/)
+[View on GitHub Pages](//deenprasath.github.io/E-Commerce-Product-Listing-Page/)
 
 ## Author
 S.DeenPrasath

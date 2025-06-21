@@ -16,4 +16,4 @@ A modern, responsive e-commerce web interface using HTML, CSS, and JavaScript.
 [View on GitHub Pages](//deenprasath.github.io/E-Commerce-Product-Listing-Page/)
 
 ## Author
-S.DeenPrasath
+DeenPrasath 
